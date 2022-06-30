@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['6281277154756'] 
+global.mods = [6281277154756] 
+global.prems = [6281277154756] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
-global.numberowner = '6287892711054'
-global.instagram = 'https://instagram.com/hyzer_stfu'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
+global.nameowner = 'Abiy Ardiwansyah'
+global.numberowner = '6281277154756'
+global.instagram = ''
+global.github = '
+global.dana = 'tidak ada YGY'
 global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.gopay = 'tidak ada YGY'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Yuno Gasai Bot'
+global.namebot = 'Abiy-Botz'
 global.gc = 'bit.ly/AnyaBot-Group'
 global.web = 'https://github.com/Hyzerr' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
